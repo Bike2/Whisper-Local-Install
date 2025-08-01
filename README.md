@@ -48,3 +48,8 @@ whisper "Bike audio.mp3" --model medium
 
 hen you should let it transcribe the audio, once its done, you can see the txt, srt and json file would be save on you window desktop.
 
+## To Transcribe another audio, just head to the same path the audio is located and run
+```
+whisper "FILE YOU WANT TO TRANSCRIBE" --model medium
+```
+
