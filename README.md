@@ -3,7 +3,7 @@ Whisper helps you transcribe audio to Text Locally on your system
 
 ## 1) Install Whisper:
 ```
-pip install -U openai-whisper"
+pip install -U openai-whisper
 ```
 
 ## 2) install ffmpeg 
