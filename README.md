@@ -30,7 +30,7 @@ whoami
 /mnt/c/Users/YOUR_USERNAME/Desktop, lets say my windows name is MSI
 So the code would be like 
 /mnt/c/Users/MSI/Desktop
-This would take you to your windows desktop directory on Linux, then press
+This would take you to your windows desktop directory on Linux, then enter
 ```
 ls
 ```
