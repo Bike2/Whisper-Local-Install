@@ -15,7 +15,7 @@ sudo apt install ffmpeg
 ## 3) Locate the file directory
 ## On windows: Lets say the file is save on desktop, use 
 ```
-/mnt/c/Users/YOUR_USERNAME/Desktop
+cd /mnt/c/Users/YOUR_USERNAME/Desktop
 ```
 ## Where "YOUR_USERNAME" is your actual windows username
 
